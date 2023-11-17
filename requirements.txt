@@ -30,11 +30,8 @@ markdown-it-py==3.0.0
 MarkupSafe==2.1.3
 matplotlib-inline==0.1.6
 mdurl==0.1.2
-mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
-mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
 mkl-service==2.4.0
 nest-asyncio==1.5.8
-numpy @ file:///C:/b/abs_9fu2cs2527/croot/numpy_and_numpy_base_1695830496596/work/dist/numpy-1.26.0-cp39-cp39-win_amd64.whl#sha256=9df7f35b8a04328650588772e3df359b51f1e83651ab665c98af9dbcf9a088c2
 packaging==23.2
 pandas==2.1.2
 parso==0.8.3
